@@ -519,4 +519,6 @@ fieldset[disabled] .btn-success.active {
 
 .portfolio-subtitle {
   color: #8B9DC3;
+  font-size: 14px;
+  font-weight: bold;
 }
